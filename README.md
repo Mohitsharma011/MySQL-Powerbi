@@ -22,6 +22,6 @@ Key insights include EV performance, charging speeds, and market trends, present
 - **MySQL**: Data querying and transformation.  
 - **GitHub**: Version control and project sharing.  
 ## 🤝 Contributions  
-Created by **[Your Name](https://github.com/mohitsharma0011)**.  
+Created by **mohitsharma(https://github.com/mohitsharma0011)**.  
 
 Feel free to fork this repository, suggest improvements, or use it for your own analysis.  
